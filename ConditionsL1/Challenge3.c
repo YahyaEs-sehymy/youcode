@@ -4,10 +4,10 @@ int main() {
     int a, b, somme;
 
   
-    printf("Entrez la première valeur : ");
+    printf("Entrez la premiere valeur : ");
     scanf("%d", &a);
 
-    printf("Entrez la deuxième valeur : ");
+    printf("Entrez la deuxieme valeur : ");
     scanf("%d", &b);
 
    
