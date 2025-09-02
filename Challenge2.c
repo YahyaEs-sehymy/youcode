@@ -3,7 +3,7 @@
 int main() {
     float celsius, kelvin;
 
-    printf("Entrez la température en Celsius : ");
+    printf("Entre la température en Celsius : ");
     scanf("%f", &celsius);
 
     kelvin = celsius + 273.15;
