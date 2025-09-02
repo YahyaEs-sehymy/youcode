@@ -1,4 +1,3 @@
-// تمرين يعرض معلوماتك شخصية بإستخدام لغة C
 
 #include <stdio.h>
 
@@ -9,7 +8,6 @@ int main() {
     char sexe[10];
     char email[100];
 
-    // إدخال البيانات
     printf("Entrez votre nom : ");
     scanf("%s", nom);
 
@@ -25,7 +23,6 @@ int main() {
     printf("Entrez votre email : ");
     scanf("%s", email);
 
-    // عرض البيانات
     printf("\n Informations Personnelles\n");
     printf("Nom       : %s\n", nom);
     printf("Prenom    : %s\n", prenom);

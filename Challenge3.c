@@ -4,7 +4,7 @@ int main() {
     float km, yards;
 
     // إدخال المسافة بالكيلومتر
-    printf("Entrez la distance en kilometres : ");
+    printf("Entrez la distance en kilomtres : ");
     scanf("%f", &km);
 
     // تحويل الكيلومتر إلى Yards
